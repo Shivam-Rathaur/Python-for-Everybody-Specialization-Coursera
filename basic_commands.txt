@@ -1,0 +1,7 @@
+python -m venv venv: to set up a virtual environment 
+    1. python – Uses the default Python interpreter.
+    2. -m venv – Runs the venv module to create the environment.
+    3. venv – Folder where the virtual environment will be stored.
+.\venv\Scripts\activate: activate the virtual environment
+pip install -r requirements.txt // Install any Python package
+deactivate: Deactivate the Virtual Environment
